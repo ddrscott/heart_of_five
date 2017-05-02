@@ -113,13 +113,16 @@ the strength. This is the only `style` where a `2` is considered a low `rank`.
 The longest possible run is `A 2 3 4 5 6 7 8 9 10 J Q K A`. Incidentally, it is
 possible to win a round instantly when leading with this `meld`.
 
-### Straight Flush (Another Bomb)
+### Bomb!! Straight Flush (Another Bomb)
 
 This `meld` is another exception to the `style` rule and is very rare indeed.
-A Royal Flush requires at least 5 cards in the `meld`. The 5 cards must be a
-Run and in the same `suit`. This is the only `meld` where the `suit` of the cards
-actually matter.
+A Straight Flush requires at least 5 cards in the `meld`. The 5 or more cards
+must be a Run and in the same `suit`. This is the only `meld` where the `suit`
+of the cards actually matter.
 
+If there are more than 5 cards, it can be played on top of fewer cards. So
+a 6 card straight flush beats a 5 cards straight flush. 7 cards beat 6 and so
+on.
 
 ## ANSI Hand Notation
 
