@@ -173,7 +173,7 @@ TC = Ten of Clubs
 
 8. **Dan** is the new `leader`. He can plays `3C 3D 4D 4H`.
 
-9. **Alice** passes. **Bob** plays `JH JD QS QC`, **Cat** plays `QH QD`,
+9. **Alice** passes. **Bob** plays `JH JD QS QC`, **Cat** plays `QH QD KS KC`,
    **Alice** now plays `KH KD AH AC`, they highest possible `meld`. **Bob** and
    **Cat** `pass`. **Dan** smiles and throws a `bomb`, `10!`. **Alice** is
    discouraged because she really wanted to set the next `meld`.
