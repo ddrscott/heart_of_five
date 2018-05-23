@@ -93,11 +93,13 @@ It is possible to lead with a bomb, but what's the fun in that?!?
 ### Sisters
 
 Two or more Two of a Kinds. Where the `rank` of the cards are sequential.
-For instance: `3H 3D,4H 4D`. Three of a Kind may also be used.
+For instance: `3H 3D, 4H 4D`. Three of a Kind may also be used.
 For instance: `3H 3D 3S, 4H 4D 4C`. Four of a Kind could be used, too, but
 again, it's a waste of a bomb.
 
 The `rank` of the highest pair/triple determines the strength of the meld.
+
+**Warning**: Aces and Twos are low pairs because Run ranking is applied.
 
 ### Full House
 
